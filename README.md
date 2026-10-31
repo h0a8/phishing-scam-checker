@@ -3,7 +3,7 @@
 #### Video Demo: https://youtu.be/nii47hEEKhU
 
 #### Description:
-My Phishing/Scam Checker is a tool that checks a link for typical signs of phishings and scams and explains why it looks suspicious. It is built more specifically for the German market. The brand list focuses on mainly German companies that are often imitated by phishing and scam messages, and the bait words include mostly German bait words.
+My Phishing/Scam Checker is a tool that checks a link for typical signs of phishing and scams and explains why it looks suspicious. It is built more specifically for the German market. The brand list focuses on mainly German companies that are often imitated by phishing and scam messages, and the bait words include mostly German bait words.
 Many phishing and scams in Germany are done as an SMS or Email saying that a package could not be delivered or that a bank account was locked and the person has to log back in. The goal of this project is to give a quick and understandable second opinion on such a link for people who are maybe more prone to being a victim of such a scam. You paste the URL and the tool prints a score from 0 to 100, a rating and a list of reasons.
 
 ```
